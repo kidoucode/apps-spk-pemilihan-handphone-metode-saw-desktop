@@ -35,7 +35,7 @@ Namun, koneksi ke database mungkin mengalami keterlambatan.
   - `modal-dialog-demo-2.1.0.jar` → Contoh penggunaan  
 
 - **MySQL Driver**  
-  - `mysql-connector-j-8.0.31.jar` → JDBC driver MySQL/MariaDB  
+  - `mysql-connector-j-8.0.31.jar` → JDBC driver MySQL  
 
 - **Hashing**  
   - `jbcrypt-0.4.jar` → Hash password dengan BCrypt  
@@ -80,18 +80,18 @@ Namun, koneksi ke database mungkin mengalami keterlambatan.
 
 **1. Clone Repository**
 ```sh
-git clone https://github.com/kidoucode/apps-spk-pemilihan-supplier-metode-ahp-desktop.git
+git clone https://github.com/kidoucode/apps-spk-pemilihan-handphone-metode-saw-desktop.git
 ```
 
 **2. Masuk ke Direktori Proyek** :
 
 ```sh
-cd apps-spk-pemilihan-supplier-metode-ahp-desktop
+cd apps-spk-pemilihan-handphone-metode-saw-desktop
 ```
 
 **3. Jalankan Aplikasi** :
 ```sh
-java -jar Apps_SPK_AHP_Supplier.jar
+java -jar Apps_SPK_SAW_Handphone.jar
 ```
 Atau Anda bisa langsung mengklik file JAR untuk menjalankan demo aplikasi perpustakaan ini.
 
