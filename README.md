@@ -91,9 +91,9 @@ cd apps-spk-pemilihan-handphone-metode-saw-desktop
 
 **3. Jalankan Aplikasi** :
 ```sh
-java -jar Apps_SPK_SAW_Handphone.jar
+java -jar AppsSPKSAWHandphone.jar
 ```
-Atau Anda bisa langsung mengklik file JAR untuk menjalankan demo aplikasi perpustakaan ini.
+Atau Anda bisa langsung mengklik file JAR untuk menjalankan demo aplikasi ini.
 
 Terima kasih
 
