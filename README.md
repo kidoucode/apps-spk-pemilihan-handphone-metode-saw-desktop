@@ -95,5 +95,10 @@ java -jar AppsSPKSAWHandphone.jar
 ```
 Atau Anda bisa langsung mengklik file JAR untuk menjalankan demo aplikasi ini.
 
+**4. Login ke Aplikasi** :
+```sh
+Username : admin
+Password : admin
+```
 Terima kasih
 
