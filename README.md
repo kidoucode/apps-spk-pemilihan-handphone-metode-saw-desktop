@@ -7,6 +7,33 @@ Aplikasi ini cocok digunakan untuk tugas akhir, studi kasus bisnis, atau pengamb
 
 ---
 
+#### 📸 Preview Aplikasi
+
+<p align="center">
+  <img 
+    src="https://pcobvoevxdmgjvpiorua.supabase.co/storage/v1/object/public/apps-spk-pemilihan-handphone-metode-saw/Screenshot%20Form%20Login.png"
+    width="600"
+    alt="Form Login"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://pcobvoevxdmgjvpiorua.supabase.co/storage/v1/object/public/apps-spk-pemilihan-handphone-metode-saw/Screenshot%20Menu%20Utama.png"
+    width="600"
+    alt="Menu Utama"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://pcobvoevxdmgjvpiorua.supabase.co/storage/v1/object/public/apps-spk-pemilihan-handphone-metode-saw/Screenshot%20Input%20Nilai%20Alternatif%20Per%20Kriteria.png"
+    width="600"
+    alt="Input Nilai Alternatif per Kriteria (SAW)"
+  />
+</p>
+
+
 #### **Teknologi**
 - [MySQL 8.0.40](https://downloads.mysql.com/archives/get/p/25/file/mysql-installer-community-8.0.40.0.msi)  
 - [JDK 11](https://www.oracle.com/id/java/technologies/javase/jdk11-archive-downloads.html)  
